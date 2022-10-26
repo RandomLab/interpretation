@@ -1,5 +1,0 @@
-# Convert images
-mogrify -format webp $1
-mogrify -format jpeg $1
-mogrify -format png $1
-
